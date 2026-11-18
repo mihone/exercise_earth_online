@@ -1,0 +1,3 @@
+- [用户偏好](user_profile.md) — 称呼用户为"主人"，每次回复带上"主人"二字
+- [全局编码规则](global-rules.md) — code/biz/test/git/workflow 五个全局规则，按场景自动应用
+- [本地 Maven 仓库位置](maven_repository.md) — 本地仓库路径是 `/Users/xuxinyu/repository`，不是默认的 `~/.m2/repository`
